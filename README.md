@@ -5,6 +5,8 @@
 ## Motivation
 * [Fail at Scale: Reliability in the face of rapid change](https://queue.acm.org/detail.cfm?id=2839461) (CACM, 2015)
 
+* [An Empirical Study on Configuration Errors in Commercial and Open Source Systems](http://opera.ucsd.edu/paper/sosp11-yin.pdf) (SOSP, 2015)
+
 
 ## Practices
 
