@@ -34,9 +34,9 @@
 
 ## Detection
 
-* [PracExtractor: Extracting Configuration Good Practices from Manuals to Detect Server Misconfigurations](https://www.usenix.org/conference/atc20/presentation/xiang) (USENIX ATC, 2020) - Detecting bad practices
-
 * [Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis](https://www.usenix.org/system/files/nsdi20-paper-mehta.pdf) (NSDI, 2020) - Correlated-change analysis for Microsoft Office 365 and Azure
+
+* [PracExtractor: Extracting Configuration Good Practices from Manuals to Detect Server Misconfigurations](https://www.usenix.org/conference/atc20/presentation/xiang) (USENIX ATC, 2020) - Using NLP to learn good practices and detect bad practices
 
 * [EnCore: Exploiting System Environment and Correlation Information for Misconfiguration Detection](https://tianyin.github.io/pub/encore.pdf) (ASPLOS, 2014) - Checking correlations between configuration values and the deployment environment (VM images)
 
@@ -71,7 +71,7 @@
 
 * [Probabilistic Automated Language Learning for Configuration Files](http://www.cs.yale.edu/homes/piskac/papers/2016SantolucitoETALConfigC.pdf) (CAV, 2016) - Learning a language model of configuration
 
-* [ConfSeer: Leveraging Customer Support Knowledge Bases for Automated Misconfiguration Detection](http://www.vldb.org/pvldb/vol8/p1828-potharaju.pdf) (VLDB, 2015) - Using NLP to learn best practices from KB articles; Integrated in Microsoft Operations Management Suite
+* [ConfSeer: Leveraging Customer Support Knowledge Bases for Automated Misconfiguration Detection](http://www.vldb.org/pvldb/vol8/p1828-potharaju.pdf) (VLDB, 2015) - Using NLP to find configuration KB articles; Integrated in Microsoft Operations Management Suite
 
 * [Hey, You Have Given Me Too Many Knobs! Understanding and Dealing with Over-Designed Configuration in System Software](https://tianyin.github.io/pub/knobs.pdf) (ESEC/FSE, 2015) - Statistics of configuration files in the field
 
