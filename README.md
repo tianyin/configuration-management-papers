@@ -23,7 +23,7 @@
 
 * [Usable Declarative Configuration Specification and Validation for Applications, Systems, and Cloud](https://dl.acm.org/doi/abs/10.1145/3154448.3154453) (Middleware, 2017) -- IBM ConfigValidator
 
-* [Holistic Configuration Management at Facebook](http://sigops.org/s/conferences/sosp/2015/current/2015-Monterey/printable/008-tang.pdf) (SOSP, 2015) - Facebook Configerator
+* [Early Detection of Configuration Errors to Reduce Failure Damage](https://tianyin.github.io/pub/pcheck.pdf) (OSDI, 2016) - Generating configuration checks
 
 * [ConfValley: A Systematic Configuration Validation Framework for Cloud Services](https://www.cs.jhu.edu/~huang/paper/confvalley-eurosys15.pdf) (EuroSys, 2015) - A declarative framework for writing configuration validation code 
 
