@@ -2,6 +2,10 @@
 
 ## Introduction
 
+This is a list of materials on configuration management for cloud and Internet systems. Some of the early work did not exactly target modern cloud systems, but I find the ideas relevant and inspiring. 
+
+The list does not include other forms of configuration, such as network device configuration, [feature flags](https://www.cs.cmu.edu/~ckaestne/pdf/icseseip20.pdf), or user preferences (fonts, colors, and background themes).
+
 ## Motivation
 
 * [Fail at Scale: Reliability in the face of rapid change](https://queue.acm.org/detail.cfm?id=2839461) (CACM, 2015)
@@ -15,8 +19,6 @@
 * [An Empirical Study on Configuration Errors in Commercial and Open Source Systems](http://opera.ucsd.edu/paper/sosp11-yin.pdf) (SOSP, 2011)
 
 * [Why do Internet services fail, and what can be done about it?](http://roc.cs.berkeley.edu/papers/usits03.pdf) (USITS, 2003)
-
-
 
 
 ## Practices
@@ -60,9 +62,9 @@
 
 * [Proactive Detection of Inadequate Diagnostic Messages for Software Configuration Errors](https://homes.cs.washington.edu/~mernst/pubs/inadequate-diagnostics-issta2015-abstract.html) (ISSTA, 2015) - Uses NLP to evaluate log message quality
 
-* [Do Not Blame Users for Misconfigurations](https://tianyin.github.io/pub/spex.pdf) (SOSP, 2013) - Generates misconfigurations based on constraints inferred from source code
+* [Do Not Blame Users for Misconfigurations](https://tianyin.github.io/pub/spex.pdf) (SOSP, 2013) - Generating misconfigurations based on constraints inferred from source code
 
-* [ConfErr: A Tool for Assessing Resilience to Human Configuration Errors](https://dslab.epfl.ch/research/conferr/) (DSN, 2010) - Generates misconfigurations based on human error model
+* [ConfErr: A Tool for Assessing Resilience to Human Configuration Errors](https://dslab.epfl.ch/research/conferr/) (DSN, 2010) - Generating misconfigurations based on human error model
 
 
 ## Troubleshooting
