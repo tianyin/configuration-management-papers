@@ -13,7 +13,9 @@
 
 * [Holistic Configuration Management at Facebook](http://sigops.org/s/conferences/sosp/2015/current/2015-Monterey/printable/008-tang.pdf) (SOSP, 2015) - Facebook Configerator
 
-## Configuration Testing and Validation
+* [STRIDER: A Black-box, State-based Approach to Change and Configuration Management and Support](https://www.usenix.org/legacy/publications/library/proceedings/lisa03/tech/wang/wang.pdf) (LISA, 2003) - Microsoft CCMS
+
+## Testing and Validation
 
 * [Testing Configuration Changes in Context to Prevent Production Failures](https://tianyin.github.io/pub/ctest.pdf) (OSDI, 2020) - Connecting production system configurations to software tests
 
@@ -24,13 +26,13 @@
 * [ConfValley: A Systematic Configuration Validation Framework for Cloud Services](https://www.cs.jhu.edu/~huang/paper/confvalley-eurosys15.pdf) (EuroSys, 2015) - A declarative framework for writing configuration validation code 
 
 
-## Automatic Misconfiguration Detection
+## Detection
 
 * [Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis](https://www.usenix.org/system/files/nsdi20-paper-mehta.pdf) (NSDI, 2020) - Correlated-change analysis for Microsoft Office 365 and Azure
 
 * [EnCore: Exploiting System Environment and Correlation Information for Misconfiguration Detection](https://tianyin.github.io/pub/encore.pdf) (ASPLOS, 2014) - Checking correlations between configuration values and the deployment environment (VM images)
 
-## Testing Systems Resilience and Diagnosability to Misconfigurations
+## Systems Resilience and Diagnosability
 
 * [Proactive Detection of Inadequate Diagnostic Messages for Software Configuration Errors](https://homes.cs.washington.edu/~mernst/pubs/inadequate-diagnostics-issta2015-abstract.html) (ISSTA, 2015) - Uses NLP to evaluate log message quality
 
@@ -38,7 +40,7 @@
 
 * [ConfErr: A Tool for Assessing Resilience to Human Configuration Errors](https://dslab.epfl.ch/research/conferr/) (DSN, 2010) - Generates misconfigurations based on human error model
 
-## Misconfiguration Troubleshooting
+## Troubleshooting
 
 * [Automated Diagnosis of Software Configuration Errors](https://homes.cs.washington.edu/~mernst/pubs/configuration-errors-icse2013.pdf) (ICSE, 2013) - Identify behavior deviation caused by misconfiguration
 
@@ -46,9 +48,11 @@
 
 * [Automating configuration troubleshooting with dynamic information flow analysis](https://www.usenix.org/legacy/events/osdi10/tech/full_papers/Attariyan.pdf) (OSDI, 2010) - Inferring causality between failures and configuration values
 
+* [Configuration Debugging as Search: Finding the Needle in the Haystack](https://www.usenix.org/legacy/publications/library/proceedings/osdi04/tech/full_papers/whitaker/whitaker.pdf) (OSDI, 2004) - Debugging by time traveling
+
 * [Automatic Misconfiguration Troubleshooting with PeerPressure](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/wang/wang.pdf) (OSDI, 2004) - Integrated in Windows troubleshooting toolkit for Windows registry
 
-## Configuration Specificatons and Comprehension
+## Specificatons and Comprehension
 
 * [Understanding and Discovering Software Configuration Dependencies in Cloud and Datacenter Systems](https://tianyin.github.io/pub/cdep.pdf) (ESEC/FSE, 2020) - Configuration dependency analysis
 
@@ -58,3 +62,6 @@
 
 ## Configuration Auto-tuning
 
+## Datasets
+
+## Surveys
