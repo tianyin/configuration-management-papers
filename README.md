@@ -40,6 +40,8 @@
 
 * [EnCore: Exploiting System Environment and Correlation Information for Misconfiguration Detection](https://tianyin.github.io/pub/encore.pdf) (ASPLOS, 2014) - Checking correlations between configuration values and the deployment environment (VM images)
 
+* [Context-based Online Configuration-Error Detection](https://www.usenix.org/legacy/event/atc11/tech/final_files/Yuan.pdf) (USENIX ATC, 2011) - Detecting abnormal configuration event sequences
+
 
 ## Resilience and Diagnosability
 
