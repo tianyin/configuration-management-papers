@@ -116,6 +116,17 @@ The list does not intend to include other forms of configuration, such as networ
 * [The Starfish Project at Duke University](http://www2.cs.duke.edu/starfish/)
 
 
+## Access Control
+
+* [Forensic Analysis in Access Control: Foundations and a Case-Study from Practice](https://dl.acm.org/doi/abs/10.1145/3372297.3417860) (CCS, 2020)
+
+* [Towards Continuous Access Control Validation and Forensics](https://tianyin.github.io/pub/pdiff.pdf) (CCS, 2019)
+
+* [Detecting and Resolving Policy Misconfigurations in Access-Control Systems](https://dl.acm.org/doi/abs/10.1145/1952982.1952984) (TISSEC, 2011)
+
+* [Baaz: A System for Detecting Access Control Misconfigurations](https://www.usenix.org/conference/usenixsecurity10/baaz-system-detecting-access-control-misconfigurations) (USENIX Security, 2010)
+
+
 ## Datasets
 
 * [Configuration Dataset](https://github.com/tianyin/configuration_datasets) - Both configuration files and user-reported configuration issues collected from ServerFault, StackOverflow, and mailing lists
