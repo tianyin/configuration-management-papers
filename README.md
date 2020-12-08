@@ -67,6 +67,8 @@
 
 * [Understanding and Discovering Software Configuration Dependencies in Cloud and Datacenter Systems](https://tianyin.github.io/pub/cdep.pdf) (ESEC/FSE, 2020) - Configuration dependency analysis
 
+* [Statically Inferring Performance Properties of Software Configurations](https://dl.acm.org/doi/abs/10.1145/3342195.3387520) (EuroSys, 2020)
+
 * [Synthesizing Configuration File Specifications with Association Rule Learning](https://ennanzhai.github.io/pub/configv-oopsla17.pdf) (OOPSLA, 2017) - Synthesizing configuration specifications
 
 * [Probabilistic Automated Language Learning for Configuration Files](http://www.cs.yale.edu/homes/piskac/papers/2016SantolucitoETALConfigC.pdf) (CAV, 2016) - Learning a language model of configuration
