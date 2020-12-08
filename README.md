@@ -27,7 +27,7 @@ The list does not intend to include other forms of configuration, such as networ
 
 * [Configuration Specifics](https://sre.google/workbook/configuration-specifics/) (The Site Reliability Workbook, 2018)
 
-* [Holistic Configuration Management at Facebook](http://sigops.org/s/conferences/sosp/2015/current/2015-Monterey/printable/008-tang.pdf) (SOSP, 2015) - Facebook Configerator
+* [Holistic Configuration Management at Facebook](http://sigops.org/s/conferences/sosp/2015/current/2015-Monterey/printable/008-tang.pdf) (SOSP, 2015)
 
 * [ACMS: The Akamai Configuration Management System](https://www.usenix.org/legacy/publications/library/proceedings/nsdi05/tech/full_papers/sherman/sherman.pdf) (NSDI, 2005)
 
