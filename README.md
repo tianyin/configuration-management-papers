@@ -45,6 +45,8 @@
 
 ## Detection
 
+* [Automated Reasoning and Detection of Specious Configuration in Large Systems with Symbolic Execution](https://www.usenix.org/system/files/osdi20-hu.pdf) (OSDI, 2020)
+
 * [Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis](https://www.usenix.org/system/files/nsdi20-paper-mehta.pdf) (NSDI, 2020) - Correlated-change analysis for Microsoft Office 365 and Azure
 
 * [PracExtractor: Extracting Configuration Good Practices from Manuals to Detect Server Misconfigurations](https://www.usenix.org/conference/atc20/presentation/xiang) (USENIX ATC, 2020) - Using NLP to learn good practices and detect bad practices
@@ -68,6 +70,8 @@
 * [Automated Diagnosis of Software Configuration Errors](https://homes.cs.washington.edu/~mernst/pubs/configuration-errors-icse2013.pdf) (ICSE, 2013) - Identify behavior deviation caused by misconfiguration
 
 * [X-ray: Automating Root-Cause Diagnosis of Performance Anomalies in Production Software](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/attariyan) (OSDI, 2012) - Inferring causality between performance anomalies and configuration values
+
+* [Precomputing Possible Configuration Error Diagnoses](https://asrabkin.bitbucket.io/papers/ase11.pdf) (ASE, 2011)
 
 * [Automating configuration troubleshooting with dynamic information flow analysis](https://www.usenix.org/legacy/events/osdi10/tech/full_papers/Attariyan.pdf) (OSDI, 2010) - Inferring causality between failures and configuration values
 
