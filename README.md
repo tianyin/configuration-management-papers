@@ -136,7 +136,7 @@ The list does not intend to include other forms of configuration, such as networ
 * [Mining Container Image Repositories for Software Configurations and Beyond](https://tianyin.github.io/pub/icse-nier18.pdf) - You can collect configuration files from Docker images 
 
 
-## Note
+## Notes
 
-Please let me know if I miss important topics or papers. Feel free to open an issue or send me a PR.
+Feel free to open an issue or send me a PR if you have any suggestions or feedback. 
 
