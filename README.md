@@ -1,4 +1,4 @@
-# A Reading List of Configuration Management
+# A Reading List of System Configuration Management
 
 ## Introduction
 
