@@ -2,8 +2,7 @@
 
 ## Introduction
 
-## Why is configuration management important?
-
+## Motivation
 * [Fail at Scale: Reliability in the face of rapid change](https://queue.acm.org/detail.cfm?id=2839461) (CACM, 2015)
 
 ## Practices
