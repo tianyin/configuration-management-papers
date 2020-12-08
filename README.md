@@ -122,6 +122,8 @@ The list does not intend to include other forms of configuration, such as networ
 
 * [Towards Continuous Access Control Validation and Forensics](https://tianyin.github.io/pub/pdiff.pdf) (CCS, 2019)
 
+* [How Do System Administrators Resolve Access-Denied Issues in the Real World?](https://tianyin.github.io/pub/chi17.pdf) (CHI, 2017)
+
 * [Detecting and Resolving Policy Misconfigurations in Access-Control Systems](https://dl.acm.org/doi/abs/10.1145/1952982.1952984) (TISSEC, 2011)
 
 * [Baaz: A System for Detecting Access Control Misconfigurations](https://www.usenix.org/conference/usenixsecurity10/baaz-system-detecting-access-control-misconfigurations) (USENIX Security, 2010)
