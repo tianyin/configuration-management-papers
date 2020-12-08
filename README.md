@@ -62,6 +62,8 @@
 
 * [ConfSeer: Leveraging Customer Support Knowledge Bases for Automated Misconfiguration Detection](http://www.vldb.org/pvldb/vol8/p1828-potharaju.pdf) (VLDB, 2015) - Using NLP to learn best practices from KB articles; Integrated in Microsoft Operations Management Suite
 
+* [Hey, You Have Given Me Too Many Knobs! Understanding and Dealing with Over-Designed Configuration in System Software](https://tianyin.github.io/pub/knobs.pdf) (ESEC/FSE, 2015) - Statistics of configuration files in the field
+
 ## Configuration Auto-tuning
 
 ## Datasets
