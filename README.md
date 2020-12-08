@@ -99,6 +99,12 @@
 
 ## Datasets
 
+* [Configuration Dataset](https://github.com/tianyin/configuration_datasets) - Both configuration files and user-reported configuration issues collected from ServerFault, StackOverflow, and mailing lists
+
+* [Ctest Dataset](https://github.com/xlab-uiuc/openctest/tree/main/data) - Historical configuration-related JIRA issues
+
+* [Mining Container Image Repositories for Software Configurations and Beyond](https://tianyin.github.io/pub/icse-nier18.pdf) - Collect configuration files from Docker images 
+
 ## Surveys
 
 * [Systems Approaches to Tackling Configuration Errors: A Survey](https://tianyin.github.io/pub/csur.pdf) (CSUR, 2015)
