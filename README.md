@@ -38,6 +38,11 @@
 * [Automatic Misconfiguration Troubleshooting with PeerPressure](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/wang/wang.pdf) (OSDI, 2004) - Integrated in Windows troubleshooting toolkit for Windows registry
 
 ## Configuration Specificatons and Comprehension
+
+* [Understanding and Discovering Software Configuration Dependencies in Cloud and Datacenter Systems](https://tianyin.github.io/pub/cdep.pdf) (ESEC/FSE, 2020) - Configuration dependency analysis
+
+* [Probabilistic Automated Language Learning for Configuration Files](http://www.cs.yale.edu/homes/piskac/papers/2016SantolucitoETALConfigC.pdf) (CAV, 2016) - Learning a language model of configuration
+
 * [ConfSeer: Leveraging Customer Support Knowledge Bases for Automated Misconfiguration Detection](http://www.vldb.org/pvldb/vol8/p1828-potharaju.pdf) (VLDB, 2015) - Using NLP to learn best practices from KB articles; Integrated in Microsoft Operations Management Suite
 
 ## Configuration Auto-tuning
