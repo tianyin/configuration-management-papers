@@ -4,7 +4,7 @@
 
 This is a list of materials and resources on configuration management for cloud and Internet systems. Some of the early work did not exactly target modern cloud systems, but I find the ideas relevant and inspiring. 
 
-The list does not intend to include other forms of configuration, such as network device configuration, [feature flags](https://www.cs.cmu.edu/~ckaestne/pdf/icseseip20.pdf), or user preferences (fonts, colors, and background themes).
+The list does not intend to include other forms of configuration, such as network device configuration, [feature flags](https://www.cs.cmu.edu/~ckaestne/pdf/icseseip20.pdf), or user preferences (fonts and background themes).
 
 ## Motivation
 
