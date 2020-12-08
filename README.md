@@ -23,9 +23,9 @@ The list does not intend to include other forms of configuration, such as networ
 
 ## Practices
 
-* [Configuration Design and Best Practices](https://sre.google/workbook/configuration-design/) (The Site Reliability Workbook, 2018) - Google recommended practices.
+* [Configuration Design and Best Practices](https://sre.google/workbook/configuration-design/) (The Site Reliability Workbook, 2018)
 
-* [Configuration Specifics](https://sre.google/workbook/configuration-specifics/) (The Site Reliability Workbook, 2018) - Google recommended practices.
+* [Configuration Specifics](https://sre.google/workbook/configuration-specifics/) (The Site Reliability Workbook, 2018)
 
 * [Holistic Configuration Management at Facebook](http://sigops.org/s/conferences/sosp/2015/current/2015-Monterey/printable/008-tang.pdf) (SOSP, 2015) - Facebook Configerator
 
