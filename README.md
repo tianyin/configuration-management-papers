@@ -138,5 +138,5 @@ The list does not intend to include other forms of configuration, such as networ
 
 ## Notes
 
-Feel free to open an issue or send me a PR if you have any suggestions or feedback. 
+Feel free to open an issue or send me a PR, if you have any suggestions or feedback. 
 
