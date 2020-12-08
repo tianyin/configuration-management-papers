@@ -1,4 +1,4 @@
-# A Reading List of Configuration Management for Cloud Systems
+# A Reading List of Configuration Management
 
 ## Introduction
 
