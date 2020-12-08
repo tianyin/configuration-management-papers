@@ -38,6 +38,8 @@
 * [Automating configuration troubleshooting with dynamic information flow analysis](https://www.usenix.org/legacy/events/osdi10/tech/full_papers/Attariyan.pdf (OSDI, 2010) - Understanding causality between failures and configuration values
 * [Automatic Misconfiguration Troubleshooting with PeerPressure](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/wang/wang.pdf) (OSDI, 2004) - Integrated in Windows troubleshooting toolkit for Windows registry
 
+## Configuration Specificatons and Comprehension
+* [ConfSeer: Leveraging Customer Support Knowledge Bases for Automated Misconfiguration Detection](http://www.vldb.org/pvldb/vol8/p1828-potharaju.pdf) (VLDB, 2015) - Using NLP to learn best practices from KB articles; Integrated in Microsoft Operations Management Suite
 
 ## Configuration Auto-tuning
 
