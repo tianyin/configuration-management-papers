@@ -13,6 +13,8 @@
 
 * [Holistic Configuration Management at Facebook](http://sigops.org/s/conferences/sosp/2015/current/2015-Monterey/printable/008-tang.pdf) (SOSP, 2015) - Facebook Configerator
 
+* [ACMS: The Akamai Configuration Management System](https://www.usenix.org/legacy/publications/library/proceedings/nsdi05/tech/full_papers/sherman/sherman.pdf) (NSDI, 2005)
+
 * [STRIDER: A Black-box, State-based Approach to Change and Configuration Management and Support](https://www.usenix.org/legacy/publications/library/proceedings/lisa03/tech/wang/wang.pdf) (LISA, 2003) - Microsoft CCMS
 
 ## Testing and Validation
@@ -65,3 +67,5 @@
 ## Datasets
 
 ## Surveys
+
+* [Systems Approaches to Tackling Configuration Errors: A Survey](https://tianyin.github.io/pub/csur.pdf) (CSUR, 2015)
