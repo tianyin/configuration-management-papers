@@ -122,4 +122,4 @@ The list does not intend to include other forms of configuration, such as networ
 
 * [Ctest Dataset](https://github.com/xlab-uiuc/openctest/tree/main/data) - Historical configuration-related JIRA issues
 
-* [Mining Container Image Repositories for Software Configurations and Beyond](https://tianyin.github.io/pub/icse-nier18.pdf) - Collect configuration files from Docker images 
+* [Mining Container Image Repositories for Software Configurations and Beyond](https://tianyin.github.io/pub/icse-nier18.pdf) - You can collect configuration files from Docker images 
