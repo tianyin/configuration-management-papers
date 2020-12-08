@@ -80,15 +80,19 @@
 
 ## Tuning for Performance
 
-[Understanding and Auto-Adjusting Performance-Sensitive Configurations](https://people.cs.uchicago.edu/~shanlu/paper/asplos18_smartconf.pdf) (ASPLOS, 2018)
+* [Understanding and Auto-Adjusting Performance-Sensitive Configurations](https://people.cs.uchicago.edu/~shanlu/paper/asplos18_smartconf.pdf) (ASPLOS, 2018)
 
-[Datasize-Aware High Dimensional Configurations Auto-Tuning of In-Memory Cluster Computing](https://dl.acm.org/doi/10.1145/3173162.3173187) (ASPLOS, 2018)
+* [Datasize-Aware High Dimensional Configurations Auto-Tuning of In-Memory Cluster Computing](https://dl.acm.org/doi/10.1145/3173162.3173187) (ASPLOS, 2018)
 
-[BestConfig: Tapping the Performance Potential of Systems via Automatic Configuration Tuning](https://arxiv.org/pdf/1710.03439.pdf) (SoCC, 2017)
+* [CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/alipourfard) (NSDI, 2017)
 
-[Automatic Database Management System Tuning Through Large-scale Machine Learning](https://www.cs.cmu.edu/~ggordon/van-aken-etal-parameters.pdf) (SIGMOD, 2017)
+* [BestConfig: Tapping the Performance Potential of Systems via Automatic Configuration Tuning](https://arxiv.org/pdf/1710.03439.pdf) (SoCC, 2017)
 
-[Transfer Learning for Performance Modeling of Configurable Systems: An Exploratory Analysis](https://arxiv.org/pdf/1709.02280.pdf) (ASE, 2017)
+* [Automatic Database Management System Tuning Through Large-scale Machine Learning](https://www.cs.cmu.edu/~ggordon/van-aken-etal-parameters.pdf) (SIGMOD, 2017)
+
+* [Transfer Learning for Performance Modeling of Configurable Systems: An Exploratory Analysis](https://arxiv.org/pdf/1709.02280.pdf) (ASE, 2017)
+
+* [The Starfish Project at Duke University](http://www2.cs.duke.edu/starfish/)
 
 
 ## Datasets
