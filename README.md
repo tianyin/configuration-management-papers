@@ -5,6 +5,7 @@
 ## Motivation
 * [Fail at Scale: Reliability in the face of rapid change](https://queue.acm.org/detail.cfm?id=2839461) (CACM, 2015)
 
+
 ## Practices
 
 * [Configuration Design and Best Practices](https://sre.google/workbook/configuration-design/) (The Site Reliability Workbook, 2018) - Google recommended practices.
@@ -30,6 +31,8 @@
 
 ## Detection
 
+* [PracExtractor: Extracting Configuration Good Practices from Manuals to Detect Server Misconfigurations](https://www.usenix.org/conference/atc20/presentation/xiang) (USENIX ATC, 2020) - Detecting bad practices
+
 * [Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis](https://www.usenix.org/system/files/nsdi20-paper-mehta.pdf) (NSDI, 2020) - Correlated-change analysis for Microsoft Office 365 and Azure
 
 * [EnCore: Exploiting System Environment and Correlation Information for Misconfiguration Detection](https://tianyin.github.io/pub/encore.pdf) (ASPLOS, 2014) - Checking correlations between configuration values and the deployment environment (VM images)
@@ -41,6 +44,7 @@
 * [Do Not Blame Users for Misconfigurations](https://tianyin.github.io/pub/spex.pdf) (SOSP, 2013) - Generates misconfigurations based on constraints inferred from source code
 
 * [ConfErr: A Tool for Assessing Resilience to Human Configuration Errors](https://dslab.epfl.ch/research/conferr/) (DSN, 2010) - Generates misconfigurations based on human error model
+
 
 ## Troubleshooting
 
@@ -54,6 +58,7 @@
 
 * [Automatic Misconfiguration Troubleshooting with PeerPressure](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/wang/wang.pdf) (OSDI, 2004) - Integrated in Windows troubleshooting toolkit for Windows registry
 
+
 ## Specificatons and Comprehension
 
 * [Understanding and Discovering Software Configuration Dependencies in Cloud and Datacenter Systems](https://tianyin.github.io/pub/cdep.pdf) (ESEC/FSE, 2020) - Configuration dependency analysis
@@ -64,7 +69,10 @@
 
 * [Hey, You Have Given Me Too Many Knobs! Understanding and Dealing with Over-Designed Configuration in System Software](https://tianyin.github.io/pub/knobs.pdf) (ESEC/FSE, 2015) - Statistics of configuration files in the field
 
-## Configuration Auto-tuning
+
+## Tuning for Performance
+
+
 
 ## Datasets
 
