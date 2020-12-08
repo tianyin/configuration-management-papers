@@ -33,8 +33,8 @@
 ## Misconfiguration Troubleshooting
 
 * [Automated Diagnosis of Software Configuration Errors](https://homes.cs.washington.edu/~mernst/pubs/configuration-errors-icse2013.pdf) (ICSE, 2013) - Identify behavior deviation caused by misconfiguration
-* [X-ray: Automating Root-Cause Diagnosis of Performance Anomalies in Production Software](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/attariyan) (OSDI, 2012) - Understanding the causality between performance anomalies and configuration values
-* [Automating configuration troubleshooting with dynamic information flow analysis](https://www.usenix.org/legacy/events/osdi10/tech/full_papers/Attariyan.pdf (OSDI, 2010) - Understanding causality between failures and configuration values
+* [X-ray: Automating Root-Cause Diagnosis of Performance Anomalies in Production Software](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/attariyan) (OSDI, 2012) - Inferring causality between performance anomalies and configuration values
+* [Automating configuration troubleshooting with dynamic information flow analysis](https://www.usenix.org/legacy/events/osdi10/tech/full_papers/Attariyan.pdf) (OSDI, 2010) - Inferring causality between failures and configuration values
 * [Automatic Misconfiguration Troubleshooting with PeerPressure](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/wang/wang.pdf) (OSDI, 2004) - Integrated in Windows troubleshooting toolkit for Windows registry
 
 ## Configuration Specificatons and Comprehension
