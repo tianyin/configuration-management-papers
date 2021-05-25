@@ -84,6 +84,8 @@ The list does not intend to include other forms of configuration, such as networ
 
 ## Specification and Comprehension
 
+* [An Evolutionary Study of Configuration Design and Implementation in Cloud Systems](https://arxiv.org/pdf/2102.07052.pdf) (ICSE, 2020) - Evolution of configuration design and implementation
+
 * [Understanding and Discovering Software Configuration Dependencies in Cloud and Datacenter Systems](https://tianyin.github.io/pub/cdep.pdf) (ESEC/FSE, 2020) - Configuration dependency analysis
 
 * [Statically Inferring Performance Properties of Software Configurations](https://dl.acm.org/doi/abs/10.1145/3342195.3387520) (EuroSys, 2020)
