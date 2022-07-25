@@ -36,6 +36,8 @@ The list does not intend to include other forms of configuration, such as networ
 
 ## Testing and Validation
 
+* [Finding Heterogeneous-Unsafe Configuration Parameters in Cloud Systems](https://dl.acm.org/doi/abs/10.1145/3447786.3456250) (EuroSys, 2021) - Detecting incompatible configuration in distributed systems
+
 * [Testing Configuration Changes in Context to Prevent Production Failures](https://tianyin.github.io/pub/ctest.pdf) (OSDI, 2020) - Connecting production system configurations to software tests
 
 * [Usable Declarative Configuration Specification and Validation for Applications, Systems, and Cloud](https://dl.acm.org/doi/abs/10.1145/3154448.3154453) (Middleware, 2017) -- IBM ConfigValidator
@@ -83,6 +85,8 @@ The list does not intend to include other forms of configuration, such as networ
 
 
 ## Specification and Comprehension
+
+* [Learning Patterns in Configuration](https://ieeexplore.ieee.org/document/9678525) (ASE, 2021)
 
 * [An Evolutionary Study of Configuration Design and Implementation in Cloud Systems](https://arxiv.org/pdf/2102.07052.pdf) (ICSE, 2020) - Evolution of configuration design and implementation
 
