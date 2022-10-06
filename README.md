@@ -105,7 +105,9 @@ The list does not intend to include other forms of configuration, such as networ
 * [Which Configuration Option Should I Change?](https://zhang-sai.github.io/pdf/zhang-icse14.pdf) (ICSE, 2014) - Re-configuration due to software evolution
 
 
-## Tuning for Performance
+## Performance Tuning and Adaptivity
+
+* [KungFu: Making Training in Distributed Machine Learning Adaptive](https://www.usenix.org/system/files/osdi20-mai.pdf) (OSDI, 2020)
 
 * [Understanding and Auto-Adjusting Performance-Sensitive Configurations](https://people.cs.uchicago.edu/~shanlu/paper/asplos18_smartconf.pdf) (ASPLOS, 2018)
 
