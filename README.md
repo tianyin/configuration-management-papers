@@ -23,6 +23,8 @@ The list does not intend to include other forms of configuration, such as networ
 
 ## Practices
 
+* [MobileConfig: Remote Configuration Management for Mobile Apps at Hyperscale](https://www.usenix.org/conference/nsdi24/presentation/guo) (NSDI, 2024)
+
 * [Configuration Design and Best Practices](https://sre.google/workbook/configuration-design/) (The Site Reliability Workbook, 2018)
 
 * [Configuration Specifics](https://sre.google/workbook/configuration-specifics/) (The Site Reliability Workbook, 2018)
@@ -36,6 +38,8 @@ The list does not intend to include other forms of configuration, such as networ
 
 ## Testing and Validation
 
+* [Test Selection for Unified Regression Testing](https://tianyin.github.io/pub/urts.pdf) (ICSE, 2023)
+
 * [Finding Heterogeneous-Unsafe Configuration Parameters in Cloud Systems](https://dl.acm.org/doi/abs/10.1145/3447786.3456250) (EuroSys, 2021) - Detecting incompatible configuration in distributed systems
 
 * [Testing Configuration Changes in Context to Prevent Production Failures](https://tianyin.github.io/pub/ctest.pdf) (OSDI, 2020) - Connecting production system configurations to software tests
@@ -48,6 +52,8 @@ The list does not intend to include other forms of configuration, such as networ
 
 
 ## Detection
+
+* [Understanding and Detecting On-the-Fly Configuration Bugs](https://dl.acm.org/doi/abs/10.1109/ICSE48619.2023.00062) (ICSE, 2023)
 
 * [Automated Reasoning and Detection of Specious Configuration in Large Systems with Symbolic Execution](https://www.usenix.org/system/files/osdi20-hu.pdf) (OSDI, 2020)
 
